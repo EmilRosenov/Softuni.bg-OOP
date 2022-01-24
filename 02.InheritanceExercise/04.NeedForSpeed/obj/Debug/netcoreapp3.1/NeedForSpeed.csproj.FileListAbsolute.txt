@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache
