@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\02.InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
