@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\bin\Debug\netcoreapp3.1\03.ValidationOfData.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\03.ValidationOfData\obj\Debug\netcoreapp3.1\03.ValidationOfData.genruntimeconfig.cache
