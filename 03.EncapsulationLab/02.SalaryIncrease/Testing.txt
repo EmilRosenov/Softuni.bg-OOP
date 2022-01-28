@@ -1,0 +1,21 @@
+Case 2: Custom Inputs To Find a Mistake
+5
+Andrew Williams 65 2000
+Newton Holland 57 3000
+Rachelle Nelson 27 1000
+Brandi Scott 44 666.66
+George Miller 30 1000
+20
+
+=============
+
+5
+Andrew Williams 65 2000
+Newton Holland 57 3000
+Rachelle Nelson 27 1000
+Brandi Scott 31 1000
+George Miller 30 1000
+20
+
+
+
