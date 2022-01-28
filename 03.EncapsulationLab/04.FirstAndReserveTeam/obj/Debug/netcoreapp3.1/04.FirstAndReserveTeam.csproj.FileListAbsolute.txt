@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\bin\Debug\netcoreapp3.1\04.FirstAndReserveTeam.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\bin\Debug\netcoreapp3.1\04.FirstAndReserveTeam.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\bin\Debug\netcoreapp3.1\04.FirstAndReserveTeam.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\bin\Debug\netcoreapp3.1\04.FirstAndReserveTeam.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\bin\Debug\netcoreapp3.1\04.FirstAndReserveTeam.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\bin\Debug\netcoreapp3.1\04.FirstAndReserveTeam.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\03.EncapsulationLab\EncapsEmilLab\EncapsulationLab\04.FirstAndReserveTeam\obj\Debug\netcoreapp3.1\04.FirstAndReserveTeam.genruntimeconfig.cache

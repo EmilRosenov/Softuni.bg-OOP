@@ -1,0 +1,63 @@
+In Team.Cs
+
+the properties should be 
+
+IReadOnlyCollection<Person> FirstTeam      ////  IReadOnlyList<Person>FirstTeam    
+e.g.
+
+ public IReadOnlyCollection<Person> FirstTeam
+        {
+            get { return this.firstTeam.AsReadOnly(); }
+        }
+
+        public IReadOnlyCollection<Person> ReserveTeam
+        {
+            get { return this.reserveTeam.AsReadOnly(); }
+        }
+
+
+
+
+
+5
+Andrew Williams 20 2200
+Newton Holland 57 3333
+Rachelle Nelson 27 600   // throw ArgumentException: Salary cannot be less than 650 leva!
+Grigor Dimitrov 25 666.66
+Brandi Scott 35 555
+
+
+============
+5
+Cristiano Ronaldo 38 50000
+Emil Velichkov 34 1000
+Carolina Richards 27 670
+Gilbert Hughes 44 666.66
+Joshua Anderson 35 300  //// throw ArgumentException: Salary cannot be less than 650 leva!
+
+=================
+Changed Min Salary to 555
+
+5
+Andrew Williams 20 2200
+Newton Holland 57 3333
+Rachelle Nelson 27 600  
+Grigor Dimitrov 25 666.66
+Brandi Scott 35 555
+
+FT:4,RT:1
+================
+5
+Cristiano Ronaldo 38 50000
+Emil Velichkov 34 1000
+Carolina Richards 27 670
+Gilbert Hughes 44 666.66
+Joshua Anderson 35 3000
+
+FT: 4, RT: 1
+
+================
+Change person.Age < 35 ----> FT ;-----> over/equal 35---->RT
+
+FT: 2, RT:3
+ 
