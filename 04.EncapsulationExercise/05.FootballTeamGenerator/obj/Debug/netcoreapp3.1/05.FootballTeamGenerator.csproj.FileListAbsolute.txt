@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\bin\Debug\netcoreapp3.1\05.FootballTeamGenerator.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\04.EncapsulationExercise\04.EncapsulationExercise\05.FootballTeamGenerator\obj\Debug\netcoreapp3.1\05.FootballTeamGenerator.genruntimeconfig.cache
