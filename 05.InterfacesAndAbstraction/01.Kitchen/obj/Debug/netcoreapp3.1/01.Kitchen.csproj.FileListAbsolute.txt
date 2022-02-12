@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\bin\Debug\netcoreapp3.1\01.Kitchen.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\bin\Debug\netcoreapp3.1\01.Kitchen.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\bin\Debug\netcoreapp3.1\01.Kitchen.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\bin\Debug\netcoreapp3.1\01.Kitchen.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\bin\Debug\netcoreapp3.1\01.Kitchen.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\bin\Debug\netcoreapp3.1\01.Kitchen.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\01.Kitchen\obj\Debug\netcoreapp3.1\01.Kitchen.genruntimeconfig.cache
