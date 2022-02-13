@@ -1,0 +1,12 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\bin\Debug\netcoreapp3.1\04.Cars.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\bin\Debug\netcoreapp3.1\04.Cars.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\bin\Debug\netcoreapp3.1\04.Cars.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\bin\Debug\netcoreapp3.1\04.Cars.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\bin\Debug\netcoreapp3.1\04.Cars.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\bin\Debug\netcoreapp3.1\04.Cars.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\obj\Debug\netcoreapp3.1\04.Cars.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\obj\Debug\netcoreapp3.1\04.Cars.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\obj\Debug\netcoreapp3.1\04.Cars.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\obj\Debug\netcoreapp3.1\04.Cars.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\obj\Debug\netcoreapp3.1\04.Cars.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\05.InterfacesAndAbstraction\05.InterfacesAndAbstraction\04.Cars\obj\Debug\netcoreapp3.1\04.Cars.genruntimeconfig.cache
