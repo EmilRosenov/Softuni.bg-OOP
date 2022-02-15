@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\bin\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\04.BorderControl\obj\Debug\netcoreapp3.1\04.BorderControl.genruntimeconfig.cache
