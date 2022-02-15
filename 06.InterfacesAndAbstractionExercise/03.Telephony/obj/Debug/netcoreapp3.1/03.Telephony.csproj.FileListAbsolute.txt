@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.genruntimeconfig.cache
