@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\bin\Debug\netcoreapp3.1\07.MilitaryElite2.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\bin\Debug\netcoreapp3.1\07.MilitaryElite2.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\bin\Debug\netcoreapp3.1\07.MilitaryElite2.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\bin\Debug\netcoreapp3.1\07.MilitaryElite2.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\bin\Debug\netcoreapp3.1\07.MilitaryElite2.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\bin\Debug\netcoreapp3.1\07.MilitaryElite2.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\06.InterfacesAndAbstractionExercise\06.InterfacesAndAbstractionExercise\07.MilitaryElite2\obj\Debug\netcoreapp3.1\07.MilitaryElite2.genruntimeconfig.cache
