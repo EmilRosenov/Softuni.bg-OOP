@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\bin\Debug\netcoreapp3.1\02.Exrcise.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\bin\Debug\netcoreapp3.1\02.Exrcise.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\bin\Debug\netcoreapp3.1\02.Exrcise.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\bin\Debug\netcoreapp3.1\02.Exrcise.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\bin\Debug\netcoreapp3.1\02.Exrcise.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\bin\Debug\netcoreapp3.1\02.Exrcise.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\02.Exrcise\obj\Debug\netcoreapp3.1\02.Exrcise.genruntimeconfig.cache
