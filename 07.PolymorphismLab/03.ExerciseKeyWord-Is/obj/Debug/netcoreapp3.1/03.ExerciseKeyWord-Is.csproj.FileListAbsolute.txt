@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\bin\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\bin\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\bin\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\bin\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\bin\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\bin\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\07.PolymorphismLab\01.MathOperation\03.ExerciseKeyWord-Is\obj\Debug\netcoreapp3.1\03.ExerciseKeyWord-Is.genruntimeconfig.cache
