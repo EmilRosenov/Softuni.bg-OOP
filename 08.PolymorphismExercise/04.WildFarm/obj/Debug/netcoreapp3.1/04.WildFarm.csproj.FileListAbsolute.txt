@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\08.PolymorphismExercise\PolymorphismExercise\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.genruntimeconfig.cache
