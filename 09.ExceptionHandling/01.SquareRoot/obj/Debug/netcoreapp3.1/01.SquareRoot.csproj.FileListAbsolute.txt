@@ -1,0 +1,13 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.exe
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.runtimeconfig.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.runtimeconfig.dev.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\netcoreapp3.1\01.SquareRoot.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\09.ExceptionHandling\ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\netcoreapp3.1\01.SquareRoot.genruntimeconfig.cache
