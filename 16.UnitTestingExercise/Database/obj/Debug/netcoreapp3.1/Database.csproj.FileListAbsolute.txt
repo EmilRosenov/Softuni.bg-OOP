@@ -1,0 +1,9 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\Database\obj\Debug\netcoreapp3.1\Database.pdb
