@@ -1,0 +1,9 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
