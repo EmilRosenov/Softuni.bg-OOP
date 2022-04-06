@@ -1,0 +1,9 @@
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\Sony Vaio\Desktop\Softuni\C#OOP\16.UnitTestingExercise\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
